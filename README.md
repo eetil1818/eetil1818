@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 😄 I've just completed Data Science & AI Bootcamp from Le Wagon on March 2025.
+- 🌱 Currently working on building projects for my data portfolio.
+- 🔭 Also would love to get remote internship.
+- 📫 How to reach me: abuwonohalim@gmail.com
+
 <!--
 **eetil1818/eetil1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
