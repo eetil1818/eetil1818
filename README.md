@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 😄 I've just completed Data Science & AI Bootcamp from Le Wagon on March 2025.
+- 😄 Completed Data Science & AI Bootcamp from Le Wagon on March 2025.
 - 🌱 Currently working on building projects for my data portfolio.
 - 🔭 Casually looking for remote internship.
 - 📫 How to reach me: abuwonohalim@gmail.com
