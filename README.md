@@ -1,21 +1,12 @@
-## Hi there 👋
+# Hi 👋  
 
-- 😄 Completed Data Science & AI Bootcamp from Le Wagon on March 2025.
-- 🌱 Currently working on building projects for my data portfolio.
-- 🔭 Looking for remote internship opportunities.
-- 📫 How to reach me: abuwonohalim@gmail.com
+## 🚀 About Me
+- 💡 *Aspiring Data Scientist| AI Explorer* 
+- 🎓 Completed **Data Science & AI Bootcamp @ Le Wagon** (March 2025)  
+- 🌱 Building hands-on projects to grow my portfolio  
+- 🔭 Open to **remote internship opportunities** in Data Science / ML  
+- ✨ Passionate about turning data into insights and AI into impact
 
-<!--
-**eetil1818/eetil1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+![Profile views](https://komarev.com/ghpvc/?username=eetil1818&color=brightgreen)
+![Repos](https://img.shields.io/badge/Project%20count-20-brightgreen)
