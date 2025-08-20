@@ -8,4 +8,4 @@
 - ✨ Passionate about turning data into insights and AI into impact
 
   
-![Repos](https://img.shields.io/badge/Project%20count-20-brightgreen)
+![Repos](https://img.shields.io/github/repos/eetil1818?color=brightgreen)
