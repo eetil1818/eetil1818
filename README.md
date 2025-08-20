@@ -8,5 +8,4 @@
 - ✨ Passionate about turning data into insights and AI into impact
 
   
-![Profile views](https://komarev.com/ghpvc/?username=eetil1818&color=brightgreen)
 ![Repos](https://img.shields.io/badge/Project%20count-20-brightgreen)
