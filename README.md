@@ -6,6 +6,3 @@
 - 🌱 Building hands-on projects to grow my portfolio  
 - 🔭 Open to **remote internship opportunities** in Data Science / ML  
 - ✨ Passionate about turning data into insights and AI into impact
-
-  
-![Repos](https://img.shields.io/github/repos/eetil1818?color=brightgreen)
