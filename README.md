@@ -1,7 +1,7 @@
 # Hi 👋  
 
 ## 🚀 About Me
-- 💡 *Aspiring Data Scientist| AI Explorer* 
+- 💡 Aspiring Data Scientist | AI Explorer
 - 🎓 Completed **Data Science & AI Bootcamp @ Le Wagon** (March 2025)  
 - 🌱 Building hands-on projects to grow my portfolio  
 - 🔭 Open to **remote internship opportunities** in Data Science / ML  
